@@ -148,13 +148,13 @@ border-radius: 8px;
 background: #F00;
 text-align: center;
 }
-.great-1 {
+.grid-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* Creates 3 columns with equal width */
     gap: 10px; /* Adds some spacing between columns */
 }
 
-.great-2{
+.grid-item{
 
     padding: 20px; /* Optional: Adds padding for better visibility */
     /* text-align: center;  */

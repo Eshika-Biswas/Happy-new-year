@@ -1,0 +1,104 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    width: 1600px;
+    height: 7335px;
+
+}
+.header{
+    
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+background-image: url("../image/Banner\ Image.png");
+background-repeat: no-repeat;
+    
+}
+.new{
+
+    align-items: center;
+}
+.new-1{
+    color: hwb(0 100% 0%);
+
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 50px 50px 0px 50px;
+}
+.new-2{
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; 
+}
+.new-3{
+    color: #F00;
+display: flex;
+justify-content: center;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 0;
+padding-bottom:0px ;
+}
+.new-4{
+    color: #F00;
+display: flex;
+justify-content: center;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 0px;
+padding-top: 0px;
+}
+.new-5{
+    color: #070211;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.new-6{
+    width: 802.9px;
+    justify-content: center;
+height: 500px;
+flex-shrink: 0;
+}
+.new-7{
+    text-align: right;
+    background-image: url("../Happy-new-year/image/Vectorrr.png");
+    background-repeat: no-repeat;
+
+}
+.new-8{
+    color: #FFF;
+
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+
+
+}
